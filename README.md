@@ -1,5 +1,4 @@
-# Python_Projects
-Data Science projects
+#Data Science projects
 
 
 Implementing sentiment analysis on customers feedback  for a hypothetical airline, analyzed customer sentiment 
