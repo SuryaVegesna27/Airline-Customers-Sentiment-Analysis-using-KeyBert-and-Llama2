@@ -138,18 +138,3 @@ This project is licensed under **MIT License** © 2024 [Surya Kiran Varma Vegesn
 
 ---
 
-## **Contact**  
-For queries or contributions, contact **Surya Kiran Varma Vegesna** at:  
-📧 **Email**: surya@example.com  
-🔗 **GitHub**: [yourusername](https://github.com/yourusername)  
-
----
-
-### **Why This Update?**
-✅ **Detailed structure** with a **purpose section** for clarity.  
-✅ **Step-by-step explanation** of scraping, NLP, and ML workflow.  
-✅ **Well-formatted GitHub-friendly layout.**  
-✅ **Clear instructions for setup and contributions.**  
-
-**You can copy-paste this directly into your `README.md` on GitHub. 🚀**
-
